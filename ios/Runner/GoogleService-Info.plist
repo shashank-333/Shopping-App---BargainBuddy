@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDD_4utuQH0sbLu0scAb8Asit4r8cg2-2Q</string>
+	<key>GCM_SENDER_ID</key>
+	<string>232840604285</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.shoppingcarts</string>
+	<key>PROJECT_ID</key>
+	<string>shoppingmania-e4ab2</string>
+	<key>STORAGE_BUCKET</key>
+	<string>shoppingmania-e4ab2.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:232840604285:ios:88b6e9fba84ac75413df14</string>
+</dict>
+</plist>

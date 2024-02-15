@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "232840604285",
+    "project_id": "shoppingmania-e4ab2",
+    "storage_bucket": "shoppingmania-e4ab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232840604285:android:3be973c40527f63713df14",
+        "android_client_info": {
+          "package_name": "com.example.shoppingcarts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACa-0_dbveGxH3qIHhiLxV1bvhGjRjzdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

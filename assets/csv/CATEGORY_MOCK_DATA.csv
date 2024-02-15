@@ -1,0 +1,15 @@
+id,category,subCategory,images
+5ff0b509fc13ae631b000000,Clothing,Shirt,assets/mock_images/products/5ff0b509fc13ae631b00004c.jpg
+5ff0b509fc13ae631b000001,Clothing,T-Shirt,assets/mock_images/products/5ff0b509fc13ae631b000044.jpg
+5ff0b509fc13ae631b000002,Clothing,Jeans,assets/mock_images/products/5ff0b509fc13ae631b00004e.jpg
+5ff0b509fc13ae631b000003,Accessories,Watches,assets/mock_images/products/5ff0b509fc13ae631b000017.jpg
+5ff0b509fc13ae631b000004,Accessories,Bags,assets/mock_images/products/5ff0b509fc13ae631b000015.jpg
+5ff0b509fc13ae631b000005,Accessories,Wallets,assets/mock_images/products/5ff0b509fc13ae631b000038.jpg
+5ff0b509fc13ae631b000006,Accessories,Sunglasses,assets/mock_images/products/5ff0b509fc13ae631b000025.jpg
+5ff0b509fc13ae631b000007,Electronics,Mobile cover,assets/mock_images/products/5ff0b509fc13ae631b000093.jpg
+5ff0b509fc13ae631b000008,Electronics,Power banks,assets/mock_images/products/5ff0b509fc13ae631b000097.jpg
+5ff0b509fc13ae631b000009,Electronics,Tablets,assets/mock_images/products/5ff0b509fc13ae631b000069.jpg
+5ff0b509fc13ae631b00000a,Electronics,Mobile accessories,assets/shop/mobilephones.jpg
+5ff0b509fc13ae631b00000b,Shoes,Sports shoes,assets/mock_images/products/5ff0b509fc13ae631b000110.jpg
+5ff0b509fc13ae631b00000c,Shoes,Formal shoes,assets/mock_images/products/5ff0b509fc13ae631b000118.jpg
+5ff0b509fc13ae631b00000d,Shoes,Casual shoes,assets/mock_images/products/5ff0b509fc13ae631b000132.jpg
