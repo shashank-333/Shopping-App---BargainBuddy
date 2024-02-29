@@ -2,6 +2,7 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:shoppingcarts/views/paymentUpi.dart';
 
+import '../Keys.dart';
 import 'Payment.dart';
 import 'dart:convert';
 import 'package:flutter_stripe/flutter_stripe.dart' as stripe;
@@ -193,7 +194,7 @@ class _PaymentOptionPageState extends State<PaymentOptionPage> {
         Uri.parse('https://api.stripe.com/v1/payment_intents'),
         headers: {
           'Authorization':
-              'Bearer ',
+              'Bearer $Stripe_Secret',
           'Content-Type': 'application/x-www-form-urlencoded'
         },
         body: body,

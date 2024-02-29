@@ -10,6 +10,7 @@ import 'package:get/get.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:lottie/lottie.dart';
 
+import '../Keys.dart';
 import '../Model/user.dart';
 import '../views/login_view.dart';
 import '../constants.dart';
@@ -593,7 +594,6 @@ class _SignUpViewState extends State<SignUpView> {
   }
 
   void _sendFirebaseMessage(UserProfile userProfile) async {
-    final String serverKey = ''; // Replace with your Firebase server key
     String? token = await _firebaseMessaging.getToken();
     final Map<String, dynamic> message = {
       'notification': {

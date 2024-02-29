@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'package:firebase_messaging/firebase_messaging.dart';
 import 'package:flutter/material.dart';
 
+import '../Keys.dart';
 import '../Model/Product.dart';
 import 'package:http/http.dart' as http;
 
@@ -22,7 +23,6 @@ class _CartItemWidgetState extends State<CartItemWidget> {
 
 
   void _sendFirebaseMessage(Product product) async {
-    final String serverKey = '';
     String? token = await _firebaseMessaging.getToken();
     final Map<String, dynamic> message = {
       'notification': {
