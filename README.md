@@ -4,12 +4,7 @@ A new Flutter project.
 
 ## Video Demo
 
-<video width="320" height="240" controls>
-  <source src="[https://drive.google.com/uc?export=download&id=1d7KbFLy_9NV3dzQKVAQUU5RgA-ceBo4i.mp4]" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-Click on the video above to watch the demo.
+Click [here](https://drive.google.com/file/d/1d7KbFLy_9NV3dzQKVAQUU5RgA-ceBo4i/view) to watch the demo video.
 
 
 ## Features
