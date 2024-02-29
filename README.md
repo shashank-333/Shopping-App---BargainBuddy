@@ -5,7 +5,7 @@ A new Flutter project.
 ## Video Demo
 
 <video width="320" height="240" controls>
-  <source src="[https://drive.google.com/file/d/1d7KbFLy_9NV3dzQKVAQUU5RgA-ceBo4i/view?usp=sharing]" type="video/mp4">
+  <source src="[https://drive.google.com/uc?export=download&id=1d7KbFLy_9NV3dzQKVAQUU5RgA-ceBo4i.mp4]" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
