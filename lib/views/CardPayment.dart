@@ -89,7 +89,7 @@
 //         Uri.parse('https://api.stripe.com/v1/payment_intents'),
 //         headers: {
 //           'Authorization':
-//           'Bearer sk_test_51OfNhcSEg7dfSJEu7WIgf01OnaOCcqZagXnhPLBMWgMvZGYE9TspbLRORQhnJajEjqlRM2Ho1WnHIZqxvazyFstq00cLAWz4uh',
+//           'Bearer ',
 //           'Content-Type': 'application/x-www-form-urlencoded'
 //         },
 //         body: body,
